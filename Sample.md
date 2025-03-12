@@ -82,5 +82,7 @@ Monday: {
 * Step 4: enter the cmd ```git add .```, meaning add all to the staging area.
 * Step 5: enter the command ```git commit -am 'test'```, to combine the functionality of staging  all files 
 * Step 6: Create a new repository in the github name "test" and copy the commad for remote ```git remote add origin https://github.com/VidhGalore/test.git```
-* Step 7: copy the cmd ```git push -u origin main```
-  
+* Step 7: copy the cmd ```git push -u origin master```
+* Refresh page in github, The data (sample.md) will be available
+<!-- image --> 
+![gitbashpushingtogithub] (C:\Vidhya\2024 Work\Visual Studio Code\Test\gitbashpushingtogithub.png)
